@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-def multiply_numbers():
+def multiplyyy_numbers():
     product = 1
     while True:
         num = float(input("Введите число (введите 0 для завершения): "))
@@ -10,5 +10,5 @@ def multiply_numbers():
         product *= num
     return product
 
-result = multiply_numbers()
+result = multiplyyy_numbers()
 print("Произведение введенных чисел:", result)
